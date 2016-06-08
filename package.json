@@ -1,0 +1,23 @@
+{
+  "name": "jspm-node",
+  "version": "0.0.0",
+  "description": "A simple example of hot to use JSPM and NodeJS together",
+  "main": "src/server/server.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diophantic/tut01-jspm-nodejs.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "JSPM",
+    "Tutorial"
+  ],
+  "author": "Carlos Kelkboom (http://blog.diophantic.nl/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Diophantic/tut01-jspm-nodejs/issues"
+  }
+}
